@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(22, 37, 63);
+}
+
+.nav a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+
+
+h1{
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+}
+
+
+.box1{
+    height: 100px;
+    background-color: bisque;
+    margin-top: 5px;
+}
+
+.box2{
+    height: 100px;
+    background-color: rgb(255, 191, 113);
+    margin-top: 5px;
+}
+
+.box3{
+    height: 100px;
+    background-color: rgb(210, 113, 255);
+    margin-top: 5px;
+}
+
+.box4{
+    height: 100px;
+    background-color: rgb(255, 113, 139);
+    margin-top: 5px;
+}
